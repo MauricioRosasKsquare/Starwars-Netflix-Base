@@ -1,6 +1,3 @@
-import { height } from "dom-helpers"
-
-
 export const Footer = () => {
     return (
         <>
